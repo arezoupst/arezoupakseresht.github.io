@@ -1,5 +1,5 @@
 # Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+This is the source code for Varad Bhogayata's public website:
 
 > https://varadbhogayata.github.io
 
